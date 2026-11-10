@@ -1,0 +1,8 @@
+Pruebas del prototipo
+Entorno: Python 3.12 / Streamlit 1.49.1.
+7 pruebas de cálculo aprobadas, incluyendo 13 subcasos de entradas inválidas.
+AppTest: inicio, nombre vacío, ejemplo, cálculo insuficiente, edición,
+recálculo suficiente, agregar y eliminar filas, tipo personalizado, navegación.
+Exportación CSV comprobada a nivel de función.
+Pendiente: revisión visual en navegador Mac, descarga desde navegador y publicación pública.
+No se presentan estas pruebas como capturas realizadas por la estudiante.
